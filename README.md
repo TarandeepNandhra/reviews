@@ -8,6 +8,8 @@ Zero count - then not shown in result.
 
 Input can be lower and uppercase (in the string)
 
+Test cases
+-------
 ```
 Input: "Green, Green, Red, Amber, Red"
 Output: "Green: 2\nAmber: 1\nRed: 2"
